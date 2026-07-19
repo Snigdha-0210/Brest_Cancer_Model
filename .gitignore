@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data files and archives
+*.zip
+*.rar
+train/
+test/
+valid/
+predictions/
+
+# Model Checkpoints
+checkpoints/
+*.pth
+*.pt
+*.h5
+*.onnx
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS specific
+.DS_Store
+Thumbs.db
