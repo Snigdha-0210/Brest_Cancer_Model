@@ -6,7 +6,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-1.10%2B-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![Albumentations](https://img.shields.io/badge/Albumentations-Augmentation-FF6F00?style=for-the-badge)](https://albumentations.ai/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
-[![Report](https://img.shields.io/badge/Internship_Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](Final_Internship_Report.pdf)
+[![Report](https://img.shields.io/badge/Internship_Report-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Snigdha-0210/Brest_Cancer_Model/raw/main/Final_Internship_Report.pdf)
 
 <p align="center">
   <strong>An Advanced Deep Learning Pipeline Combining U-Net with Non-Local Spatial Context Graph Convolutional Networks (NSCGCN) for High-Precision Breast Ultrasound Lesion Segmentation</strong>
@@ -22,7 +22,7 @@
 
 <br/>
 
-[📄 **Read Full Internship Report (PDF)**](Final_Internship_Report.pdf) &nbsp; | &nbsp; [📊 **Ablation Results**](#-ablation-study--quantitative-results) &nbsp; | &nbsp; [🧠 **Architecture Details**](#-model-architecture) &nbsp; | &nbsp; [🚀 **Quickstart**](#-quickstart--usage)
+[📄 **Read / Download Full Internship Report (PDF)**](https://github.com/Snigdha-0210/Brest_Cancer_Model/raw/main/Final_Internship_Report.pdf) &nbsp; | &nbsp; [📊 **Ablation Results**](#-ablation-study--quantitative-results) &nbsp; | &nbsp; [🧠 **Architecture Details**](#-model-architecture) &nbsp; | &nbsp; [🚀 **Quickstart**](#-quickstart--usage)
 
 </div>
 
